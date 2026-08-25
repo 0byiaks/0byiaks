@@ -123,14 +123,14 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/Threat-Composer-App">Threat-Composer-App</a></h4>
-<p>Deploys AWS Labs' Threat Composer threat-modeling tool to ECS Fargate behind an ALB, with HTTPS via ACM, Route 53 DNS, and Terraform-managed infrastr…</p>
-<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 TypeScript</p>
-</td>
-<td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/cloud-data-exchange-gateway">cloud-data-exchange-gateway</a></h4>
 <p>Secure, multi-tenant file transfer platform on AWS using Terraform, dynamic provisioning of SFTP users, S3 storage, and IAM access controls via reusa…</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/0byiaks/Threat-Composer-App">Threat-Composer-App</a></h4>
+<p>Deploys AWS Labs' Threat Composer threat-modeling tool to ECS Fargate behind an ALB, with HTTPS via ACM, Route 53 DNS, and Terraform-managed infrastr…</p>
+<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 TypeScript</p>
 </td>
 </tr>
 </table>
@@ -154,26 +154,26 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/AWS-ECS-Fargate-Deployment-with-Terraform-Docker">AWS-ECS-Fargate-Deployment-with-Terraform-Docker</a></h4>
-<p>Production-grade CI/CD pipeline deploying a containerised Laravel app to ECS Fargate — Terraform IaC, Trivy vulnerability scanning, automated rollbac…</p>
-<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
+<h4><a href="https://github.com/0byiaks/Deploy-E-Commerce-Application-to-AWS-EC2-integrating-Auto-Scaling-ASG-">Deploy-E-Commerce-Application-to-AWS-EC2-integrating-Auto-Scaling-ASG-</a></h4>
+<p>Deploy E-Commerce Application to AWS EC2 integrating Auto Scaling (ASG)</p>
+<p>⭐ 0 &nbsp; 🍴 1 &nbsp; 💻 HCL</p>
 </td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/terraform-aws-modules">terraform-aws-modules</a></h4>
-<p>Reusable Terraform modules for AWS infrastructure</p>
-<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/Java-Login-App">Java-Login-App</a></h4>
 <p>Highly available 3-tier Java/Spring Boot login app on AWS, provisioned with Terraform — golden AMIs, Auto Scaling, Network Load Balancers, RDS, and S…</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/BlogHub_Microservcie_Deployment">BlogHub_Microservcie_Deployment</a></h4>
-<p>Microservices blog platform deployed on AWS EKS, with full CI/CD automation and multi-environment infrastructure as code.</p>
-<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 JavaScript</p>
+<h4><a href="https://github.com/0byiaks/terraform-aws-modules">terraform-aws-modules</a></h4>
+<p>Reusable Terraform modules for AWS infrastructure</p>
+<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/0byiaks/AWS-ECS-Fargate-Deployment-with-Terraform-Docker">AWS-ECS-Fargate-Deployment-with-Terraform-Docker</a></h4>
+<p>Production-grade CI/CD pipeline deploying a containerised Laravel app to ECS Fargate — Terraform IaC, Trivy vulnerability scanning, automated rollbac…</p>
+<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
 </td>
 </tr>
 <tr>
@@ -190,9 +190,9 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/Deploy-E-Commerce-Application-to-AWS-EC2-integrating-Auto-Scaling-ASG-">Deploy-E-Commerce-Application-to-AWS-EC2-integrating-Auto-Scaling-ASG-</a></h4>
-<p>Deploy E-Commerce Application to AWS EC2 integrating Auto Scaling (ASG)</p>
-<p>⭐ 0 &nbsp; 🍴 1 &nbsp; 💻 HCL</p>
+<h4><a href="https://github.com/0byiaks/BlogHub_Microservcie_Deployment">BlogHub_Microservcie_Deployment</a></h4>
+<p>Microservices blog platform deployed on AWS EKS, with full CI/CD automation and multi-environment infrastructure as code.</p>
+<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 JavaScript</p>
 </td>
 <td width="50%" valign="top">
 <h4>🔒 shopwise-app-code <em>(Private)</em></h4>
