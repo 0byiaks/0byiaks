@@ -124,7 +124,7 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/Threat-Composer-App">Threat-Composer-App</a></h4>
-<p>No description provided.</p>
+<p>Deploys AWS Labs' Threat Composer threat-modeling tool to ECS Fargate behind an ALB, with HTTPS via ACM, Route 53 DNS, and Terraform-managed infrastr…</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 TypeScript</p>
 </td>
 <td width="50%" valign="top">
@@ -148,14 +148,14 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/infra-catalogue">infra-catalogue</a></h4>
-<p>No description provided.</p>
+<p>Self-service infrastructure catalogue — request AWS resources via a pull request; GitHub Actions validates it, Terraform plans it, and policy checks…</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 —</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/AWS-ECS-Fargate-Deployment-with-Terraform-Docker">AWS-ECS-Fargate-Deployment-with-Terraform-Docker</a></h4>
-<p>Repo for AWS projects</p>
+<p>Production-grade CI/CD pipeline deploying a containerised Laravel app to ECS Fargate — Terraform IaC, Trivy vulnerability scanning, automated rollbac…</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
 </td>
 <td width="50%" valign="top">
@@ -167,12 +167,12 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/Java-Login-App">Java-Login-App</a></h4>
-<p>No description provided.</p>
+<p>Highly available 3-tier Java/Spring Boot login app on AWS, provisioned with Terraform — golden AMIs, Auto Scaling, Network Load Balancers, RDS, and S…</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/BlogHub_Microservcie_Deployment">BlogHub_Microservcie_Deployment</a></h4>
-<p>No description provided.</p>
+<p>Microservices blog platform deployed on AWS EKS, with full CI/CD automation and multi-environment infrastructure as code.</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 JavaScript</p>
 </td>
 </tr>
@@ -209,7 +209,7 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/Obliagtion-Extractor">Obliagtion-Extractor</a></h4>
-<p>No description provided.</p>
+<p>Full-stack app that extracts obligations from legal documents using spaCy NLP and OpenAI LLM analysis, served via FastAPI and a Next.js frontend.</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 Python</p>
 </td>
 <td width="50%"></td>
@@ -224,7 +224,7 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/Ecommerce">Ecommerce</a></h4>
-<p>No description provided.</p>
+<p>Full-stack e-commerce application with an Amazon-style UI, built with React, Node.js, MongoDB, and Docker.</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 JavaScript</p>
 </td>
 <td width="50%"></td>
