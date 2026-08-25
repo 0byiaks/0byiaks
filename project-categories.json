@@ -1,0 +1,15 @@
+{
+  "owner": "0byiaks",
+  "sortBy": "created",
+  "monthsBack": 3,
+  "excludeRepos": ["0byiaks"],
+  "manualEntries": [
+    {
+      "name": "shopwise-app-code",
+      "private": true,
+      "description": "Laravel 10 / Botble CMS e-commerce application — the application codebase deployed by the AWS-ECS-Fargate-Deployment-with-Terraform-Docker infrastructure project. Repository is private; listed here for portfolio context only.",
+      "language": "PHP",
+      "createdAt": "2025-02-01T00:00:00Z"
+    }
+  ]
+}
