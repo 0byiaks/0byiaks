@@ -124,12 +124,12 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/Threat-Composer-App">Threat-Composer-App</a></h4>
-<p>Deploys AWS Labs' Threat Composer threat-modeling tool to ECS Fargate behind an ALB, with HTTPS via ACM, Route 53 DNS, and Terraform-managed infrastructure.</p>
+<p>No description provided.</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 TypeScript</p>
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/cloud-data-exchange-gateway">cloud-data-exchange-gateway</a></h4>
-<p>Secure, multi-tenant file transfer platform on AWS using Terraform, with dynamic provisioning of SFTP users, S3 storage, and IAM access controls via reusable modules.</p>
+<p>Secure, multi-tenant file transfer platform on AWS using Terraform, dynamic provisioning of SFTP users, S3 storage, and IAM access controls via reusa…</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
 </td>
 </tr>
@@ -143,58 +143,61 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/aws-infrastructure-platform-HCP-Terraform-">aws-infrastructure-platform-HCP-Terraform-</a></h4>
-<p>Multi-environment AWS infrastructure platform built with Terraform — reusable modules, HCP Terraform workspaces, remote state, and dynamic resource creation across dev, staging, and production.</p>
+<p>Multi-environment AWS infrastructure platform provisioned with Terraform — reusable modules, HCP Terraform workspaces, remote state, and dynamic reso…</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/infra-catalogue">infra-catalogue</a></h4>
-<p>Self-service infrastructure catalogue — developers request cloud resources via pull request, GitHub Actions validates the request, and Terraform plans it under policy checks.</p>
+<p>No description provided.</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 —</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/AWS-ECS-Fargate-Deployment-with-Terraform-Docker">AWS-ECS-Fargate-Deployment-with-Terraform-Docker</a></h4>
-<p>Production-grade CI/CD pipeline deploying a containerised Laravel app to ECS Fargate — Terraform IaC, Trivy vulnerability scanning, automated rollback, and Slack notifications.</p>
+<p>Repo for AWS projects</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/terraform-aws-modules">terraform-aws-modules</a></h4>
-<p>Reusable Terraform modules for AWS infrastructure (VPC, RDS, ALB, IAM, ACM, Route 53, Secrets Manager, and more).</p>
+<p>Reusable Terraform modules for AWS infrastructure</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/Java-Login-App">Java-Login-App</a></h4>
-<p>Highly available 3-tier Java/Spring Boot login app on AWS, provisioned with Terraform — golden AMIs, Auto Scaling, Network Load Balancers, RDS, and Secrets Manager.</p>
+<p>No description provided.</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/BlogHub_Microservcie_Deployment">BlogHub_Microservcie_Deployment</a></h4>
-<p>Microservices blog platform deployed on AWS EKS, with full CI/CD automation and multi-environment infrastructure as code.</p>
+<p>No description provided.</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 JavaScript</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/P2-aws-dynamic-website-EC2-">P2-aws-dynamic-website-EC2-</a></h4>
-<p>Production-ready three-tier AWS architecture for a dynamic web app — private networking, high availability, and security across multiple Availability Zones.</p>
+<p>A production-ready three-tier cloud architecture designed to host a dynamic web application with high availability, security, and scalability in mind…</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 Shell</p>
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/P1-aws-static-website-">P1-aws-static-website-</a></h4>
-<p>AWS infrastructure for a highly available static website — Application Load Balancer, Auto Scaling Group, Route 53 DNS, and ACM certificates.</p>
+<p>AWS infrastructure for deploying static websites with high availability across multiple Availability Zones. Features include Application Load Balance…</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 Shell</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/Deploy-E-Commerce-Application-to-AWS-EC2-integrating-Auto-Scaling-ASG-">Deploy-E-Commerce-Application-to-AWS-EC2-integrating-Auto-Scaling-ASG-</a></h4>
-<p>Deploys an e-commerce application to AWS EC2 with an Auto Scaling Group for elastic capacity.</p>
-<p>⭐ 1 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
+<p>Deploy E-Commerce Application to AWS EC2 integrating Auto Scaling (ASG)</p>
+<p>⭐ 0 &nbsp; 🍴 1 &nbsp; 💻 HCL</p>
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+<h4>🔒 shopwise-app-code <em>(Private)</em></h4>
+<p>Laravel 10 / Botble CMS e-commerce application — the application codebase deployed by the AWS-ECS-Fargate-Deployment-with-Terraform-Docker infrastruc…</p>
+</td>
 </tr>
 </table>
 
@@ -206,7 +209,7 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/Obliagtion-Extractor">Obliagtion-Extractor</a></h4>
-<p>Full-stack app that extracts obligations from legal documents using spaCy NLP and OpenAI LLM analysis, served via FastAPI and a Next.js frontend.</p>
+<p>No description provided.</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 Python</p>
 </td>
 <td width="50%"></td>
@@ -221,14 +224,12 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 <tr>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/Ecommerce">Ecommerce</a></h4>
-<p>Full-stack e-commerce application with an Amazon-style UI, built with React, Node.js, MongoDB, and Docker.</p>
+<p>No description provided.</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 JavaScript</p>
 </td>
 <td width="50%"></td>
 </tr>
 </table>
-
----
 
 <!--END_SECTION:projects-->
 
