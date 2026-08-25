@@ -118,27 +118,6 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 ## Latest Projects
 
 <!--START_SECTION:projects-->
-### Cloud Security & DevSecOps
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/cloud-data-exchange-gateway">cloud-data-exchange-gateway</a></h4>
-<p>Secure, multi-tenant file transfer platform on AWS using Terraform, dynamic provisioning of SFTP users, S3 storage, and IAM access controls via reusa…</p>
-<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/Threat-Composer-App">Threat-Composer-App</a></h4>
-<p>Deploys AWS Labs' Threat Composer threat-modeling tool to ECS Fargate behind an ALB, with HTTPS via ACM, Route 53 DNS, and Terraform-managed infrastr…</p>
-<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 TypeScript</p>
-</td>
-</tr>
-</table>
-
----
-
-### Platform Engineering & Automation
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -147,90 +126,12 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/infra-catalogue">infra-catalogue</a></h4>
-<p>Self-service infrastructure catalogue — request AWS resources via a pull request; GitHub Actions validates it, Terraform plans it, and policy checks…</p>
-<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 —</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/Deploy-E-Commerce-Application-to-AWS-EC2-integrating-Auto-Scaling-ASG-">Deploy-E-Commerce-Application-to-AWS-EC2-integrating-Auto-Scaling-ASG-</a></h4>
-<p>Deploy E-Commerce Application to AWS EC2 integrating Auto Scaling (ASG)</p>
-<p>⭐ 0 &nbsp; 🍴 1 &nbsp; 💻 HCL</p>
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/Java-Login-App">Java-Login-App</a></h4>
-<p>Highly available 3-tier Java/Spring Boot login app on AWS, provisioned with Terraform — golden AMIs, Auto Scaling, Network Load Balancers, RDS, and S…</p>
+<h4><a href="https://github.com/0byiaks/cloud-data-exchange-gateway">cloud-data-exchange-gateway</a></h4>
+<p>Secure, multi-tenant file transfer platform on AWS using Terraform, dynamic provisioning of SFTP users, S3 storage, and IAM access controls via reusa…</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/terraform-aws-modules">terraform-aws-modules</a></h4>
-<p>Reusable Terraform modules for AWS infrastructure</p>
-<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/AWS-ECS-Fargate-Deployment-with-Terraform-Docker">AWS-ECS-Fargate-Deployment-with-Terraform-Docker</a></h4>
-<p>Production-grade CI/CD pipeline deploying a containerised Laravel app to ECS Fargate — Terraform IaC, Trivy vulnerability scanning, automated rollbac…</p>
-<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/P2-aws-dynamic-website-EC2-">P2-aws-dynamic-website-EC2-</a></h4>
-<p>A production-ready three-tier cloud architecture designed to host a dynamic web application with high availability, security, and scalability in mind…</p>
-<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 Shell</p>
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/P1-aws-static-website-">P1-aws-static-website-</a></h4>
-<p>AWS infrastructure for deploying static websites with high availability across multiple Availability Zones. Features include Application Load Balance…</p>
-<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 Shell</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/BlogHub_Microservcie_Deployment">BlogHub_Microservcie_Deployment</a></h4>
-<p>Microservices blog platform deployed on AWS EKS, with full CI/CD automation and multi-environment infrastructure as code.</p>
-<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 JavaScript</p>
-</td>
-<td width="50%" valign="top">
-<h4>🔒 shopwise-app-code <em>(Private)</em></h4>
-<p>Laravel 10 / Botble CMS e-commerce application — the application codebase deployed by the AWS-ECS-Fargate-Deployment-with-Terraform-Docker infrastruc…</p>
-</td>
-</tr>
 </table>
-
----
-
-### AI & Cloud Applications
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/Obliagtion-Extractor">Obliagtion-Extractor</a></h4>
-<p>Full-stack app that extracts obligations from legal documents using spaCy NLP and OpenAI LLM analysis, served via FastAPI and a Next.js frontend.</p>
-<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 Python</p>
-</td>
-<td width="50%"></td>
-</tr>
-</table>
-
----
-
-### Other Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/Ecommerce">Ecommerce</a></h4>
-<p>Full-stack e-commerce application with an Amazon-style UI, built with React, Node.js, MongoDB, and Docker.</p>
-<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 JavaScript</p>
-</td>
-<td width="50%"></td>
-</tr>
-</table>
-
 <!--END_SECTION:projects-->
 
 ## Technical Skills
