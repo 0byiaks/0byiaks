@@ -1,71 +1,29 @@
 {
   "owner": "0byiaks",
-  "categories": [
+  "sortBy": "created",
+  "categoryOrder": [
+    "Cloud Security & DevSecOps",
+    "Platform Engineering & Automation",
+    "AI & Cloud Applications",
+    "Other Projects"
+  ],
+  "defaultCategory": "Other Projects",
+  "topicMap": {
+    "category-security": "Cloud Security & DevSecOps",
+    "category-platform": "Platform Engineering & Automation",
+    "category-ai": "AI & Cloud Applications"
+  },
+  "excludeRepos": [
+    "0byiaks"
+  ],
+  "manualEntries": [
     {
-      "title": "Cloud Security & DevSecOps",
-      "repos": [
-        {
-          "name": "Threat-Composer-App"
-        },
-        {
-          "name": "cloud-data-exchange-gateway"
-        }
-      ]
-    },
-    {
-      "title": "Platform Engineering & Automation",
-      "repos": [
-        {
-          "name": "aws-infrastructure-platform-HCP-Terraform-"
-        },
-        {
-          "name": "infra-catalogue"
-        },
-        {
-          "name": "AWS-ECS-Fargate-Deployment-with-Terraform-Docker"
-        },
-        {
-          "name": "terraform-aws-modules"
-        },
-        {
-          "name": "Java-Login-App"
-        },
-        {
-          "name": "BlogHub_Microservcie_Deployment"
-        },
-        {
-          "name": "P2-aws-dynamic-website-EC2-"
-        },
-        {
-          "name": "P1-aws-static-website-"
-        },
-        {
-          "name": "Deploy-E-Commerce-Application-to-AWS-EC2-integrating-Auto-Scaling-ASG-"
-        },
-        {
-          "name": "shopwise-app-code",
-          "manual": true,
-          "private": true,
-          "description": "Laravel 10 / Botble CMS e-commerce application — the application codebase deployed by the AWS-ECS-Fargate-Deployment-with-Terraform-Docker infrastructure project. Repository is private; listed here for portfolio context only.",
-          "language": "PHP"
-        }
-      ]
-    },
-    {
-      "title": "AI & Cloud Applications",
-      "repos": [
-        {
-          "name": "Obliagtion-Extractor"
-        }
-      ]
-    },
-    {
-      "title": "Other Projects",
-      "repos": [
-        {
-          "name": "Ecommerce"
-        }
-      ]
+      "name": "shopwise-app-code",
+      "category": "Platform Engineering & Automation",
+      "private": true,
+      "description": "Laravel 10 / Botble CMS e-commerce application — the application codebase deployed by the AWS-ECS-Fargate-Deployment-with-Terraform-Docker infrastructure project. Repository is private; listed here for portfolio context only.",
+      "language": "PHP",
+      "createdAt": "2025-02-01T00:00:00Z"
     }
   ]
 }
