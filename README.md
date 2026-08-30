@@ -123,7 +123,7 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/Cloud-Operations-Platform">Cloud-Operations-Platform</a></h4>
 <p>AWS infrastructure simulating a real DevOps environment. Web hosting, IaC, CI/CD, monitoring, and operational runbooks.</p>
-<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 —</p>
+<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
 </td>
 <td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/aws-infrastructure-platform-HCP-Terraform-">aws-infrastructure-platform-HCP-Terraform-</a></h4>
