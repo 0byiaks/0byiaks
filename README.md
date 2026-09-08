@@ -121,23 +121,27 @@ I build production-grade environments across AWS and Azure using Infrastructure 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/Cloud-Operations-Platform">Cloud-Operations-Platform</a></h4>
-<p>AWS infrastructure simulating a real DevOps environment. Web hosting, IaC, CI/CD, monitoring, and operational runbooks.</p>
-<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
+<h4><a href="https://github.com/0byiaks/novacorp-app">novacorp-app</a></h4>
+<p>NovaCorp Client Portal React frontend and FastAPI backend for a cloud consulting client management platform.</p>
+<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 JavaScript</p>
 </td>
 <td width="50%" valign="top">
-<h4><a href="https://github.com/0byiaks/aws-infrastructure-platform-HCP-Terraform-">aws-infrastructure-platform-HCP-Terraform-</a></h4>
-<p>Multi-environment AWS infrastructure platform provisioned with Terraform — reusable modules, HCP Terraform workspaces, remote state, and dynamic reso…</p>
+<h4><a href="https://github.com/0byiaks/Cloud-Operations-Platform">Cloud-Operations-Platform</a></h4>
+<p>AWS infrastructure simulating a real DevOps environment. Web hosting, IaC, CI/CD, monitoring, and operational runbooks.</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<h4><a href="https://github.com/0byiaks/aws-infrastructure-platform-HCP-Terraform-">aws-infrastructure-platform-HCP-Terraform-</a></h4>
+<p>Multi-environment AWS infrastructure platform provisioned with Terraform — reusable modules, HCP Terraform workspaces, remote state, and dynamic reso…</p>
+<p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
+</td>
+<td width="50%" valign="top">
 <h4><a href="https://github.com/0byiaks/cloud-data-exchange-gateway">cloud-data-exchange-gateway</a></h4>
 <p>Secure, multi-tenant file transfer platform on AWS using Terraform, dynamic provisioning of SFTP users, S3 storage, and IAM access controls via reusa…</p>
 <p>⭐ 0 &nbsp; 🍴 0 &nbsp; 💻 HCL</p>
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 <!--END_SECTION:projects-->
