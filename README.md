@@ -1,5 +1,6 @@
 # Hi, I'm Tito Obiokala 👋
 
+![Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20(AZ--900)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 <p align="left">
@@ -184,5 +185,5 @@ Python, Bash, PowerShell, Linux
 
 ## Certifications
 ![AZ-900](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20(AZ--900)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform Associate](https://img.shields.io/badge/Terraform-Associate%20(In%20Progress)-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate%20(In%20Progress)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
